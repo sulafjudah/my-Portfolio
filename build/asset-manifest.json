@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e56646be.css",
+    "main.js": "/static/js/main.c1d8cfcc.js",
+    "static/media/sulaf.png": "/static/media/sulaf.caad3f97d7714651515b.png",
+    "index.html": "/index.html",
+    "main.e56646be.css.map": "/static/css/main.e56646be.css.map",
+    "main.c1d8cfcc.js.map": "/static/js/main.c1d8cfcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e56646be.css",
+    "static/js/main.c1d8cfcc.js"
+  ]
+}
